@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public int sum(int numberOne, int numberTwo) {
-        return numberOne - numberTwo;
+        return numberOne + numberTwo;
     }
 
     public void getSum(View view) {
